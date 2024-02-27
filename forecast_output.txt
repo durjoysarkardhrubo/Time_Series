@@ -1,0 +1,2 @@
+Two-month moving average forecast for month eight: 44.000000
+Exponential smoothing forecast for month eight: 47.788506
